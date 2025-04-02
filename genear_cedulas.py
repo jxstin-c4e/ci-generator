@@ -2,7 +2,7 @@ import random
 
 random.seed()
 
-# Función para generar un número aleatorio de verificación válido
+# 0107882854
 def generar_verificador(cedula_sin_verificador):
     suma_impar = 0
     for i in range(0, 9, 2):
